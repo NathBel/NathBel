@@ -1,10 +1,6 @@
 <!-- <div id="badges">
       <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div> -->
-<div id="gif" align="center">
-    <img src="https://media.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif" width="300"> 
-    <div id="m**se code"> ..-. ..- - ..- .-. / .--. .-. .. -..- / - ..- .-. .. -. --. </div>
-</div>
 
 <div "text-presentation">
     <h2>:ninja: About me</h2>
