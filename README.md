@@ -5,7 +5,7 @@
 <div "text-presentation">
     <h2>:ninja: About me</h2>
     I'm a french computer science students and I'm passionate about Mathematics & Computer Science.
-    <h2>:brain: Languages</h2>
+    <h2>:brain: Technologies : </h2>
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Raspberry pi" alt="Raspberry pi" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
