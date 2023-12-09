@@ -29,6 +29,6 @@
 <h2>Stats</h2>
 <div align="center">
 
-![Stat NathBel](https://github-readme-stats.vercel.app/api/top-langs/?username=b&layout=compact&theme=synthwave&v=2)
+![Stat NathBel](https://github-readme-stats.vercel.app/api/top-langs/?username=nathbel&layout=compact&theme=synthwave&v=2)
 
 </div>
